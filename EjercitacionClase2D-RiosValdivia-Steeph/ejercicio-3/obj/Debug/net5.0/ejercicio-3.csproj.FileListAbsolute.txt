@@ -1,0 +1,16 @@
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\bin\Debug\net5.0\ejercicio-3.exe
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\bin\Debug\net5.0\ejercicio-3.deps.json
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\bin\Debug\net5.0\ejercicio-3.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\bin\Debug\net5.0\ejercicio-3.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\bin\Debug\net5.0\ejercicio-3.dll
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\bin\Debug\net5.0\ejercicio-3.pdb
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\obj\Debug\net5.0\ejercicio-3.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\obj\Debug\net5.0\ejercicio-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\obj\Debug\net5.0\ejercicio-3.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\obj\Debug\net5.0\ejercicio-3.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\obj\Debug\net5.0\ejercicio-3.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\obj\Debug\net5.0\ejercicio-3.dll
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\obj\Debug\net5.0\refint\ejercicio-3.dll
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\obj\Debug\net5.0\ejercicio-3.pdb
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\obj\Debug\net5.0\ejercicio-3.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Escritorio\EJERCICIOS\EjercitacionClase2D-RiosValdivia-Steeph\ejercicio-3\obj\Debug\net5.0\ref\ejercicio-3.dll
